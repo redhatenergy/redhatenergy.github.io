@@ -2,10 +2,10 @@
 
 # TLAs
 
-RHE - Red Hat Energy  
-TSR - Trading Supply and Risk
-IC  - Integration Component
-SIC - System Integration Component
+**RHE** - Red Hat Energy  
+**TSR** - Trading Supply and Risk  
+**IC**  - Integration Component  
+**SIC** - System Integration Component  
 
 # TSR Protobuf Schema Project Organization
 
